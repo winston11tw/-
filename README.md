@@ -1,4 +1,4 @@
-# -
+
 Google Panda:
 The main purpose is to punish low-quality and content-poor websites, so as to provide users with the most relevant and original search results. In short, the web page does not provide enough useful information for readers, excessively piling up keywords, trying to improve page ranking by improving the relevance of the web page to user queries, and websites that lack original content as the following three points will be punished by Google :
 a.Thin Content: The webpage does not provide enough useful information for readers.
